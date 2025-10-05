@@ -32,3 +32,6 @@ $ adb install -r app/build/outputs/apk/debug/app-debug.apk
 3. Open LSPosed Manager → Modules → YAKU → enable.
 4. Select only com.cbt.exam.browser in the module scope.
 5. Reboot once.
+
+## Support
+The module have been tested and is working without any problems, if you encountered any issues, please contact me.
